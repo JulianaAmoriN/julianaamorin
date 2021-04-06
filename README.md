@@ -4,7 +4,7 @@
 
 - 📚 Eu estudo na  [Laboratoria](https://github.com/Laboratoria)
 
-- 👨‍💻 Meus projetos estão em [juliana.silveira.net.br](https://github.com/JulianaAmoriN)
+- 👨‍💻 Meus projetos estão em [juliana.silveira.github.br](https://github.com/JulianaAmoriN)
 
 - 💬 Vamos conversar sobre **JavaScript, HTML, CSS**
 
