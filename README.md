@@ -25,10 +25,11 @@
 
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=calm" alt="JulianaAmoriN"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=calm" alt="JulianaAmoriN"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=julianaamorin&" alt="julianaamorin" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianaamorin&" alt="julianaamorin" /></p>
+
 ---
 
 ![](https://github.com/JulianaAmoriN/JulianaAmoriN/blob/main/AngelaDavis.gif)
