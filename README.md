@@ -13,7 +13,7 @@
 </p>
 
 
-- 📚 Eu estudo na  [Laboratoria](https://github.com/Laboratoria)
+- 📚 Estudo na  [Laboratoria](https://github.com/Laboratoria)
 
 - 👩🏽‍💻 Meus projetos estão em [juliana.amorim.net.br](https://github.com/JulianaAmoriN)
 
