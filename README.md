@@ -25,7 +25,7 @@
 
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=vision-friendly-dark" alt="JulianaAmoriN"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=calm" alt="JulianaAmoriN"/> 
 </p>
 ---
 
