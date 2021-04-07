@@ -26,14 +26,8 @@
 ---
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=calm" alt="JulianaAmoriN"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=julianaamorin&theme=dark" alt="julianaamorin" />
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=julianaamorin&theme=highcontrast" alt="julianaamorin" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAmoriN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ---
 
 ![](https://github.com/JulianaAmoriN/JulianaAmoriN/blob/main/AngelaDavis.gif)
