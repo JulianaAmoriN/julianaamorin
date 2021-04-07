@@ -25,8 +25,8 @@
 
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=great-gatsby" alt="JulianaAmoriN"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=julianaamorin&theme=highcontrast" alt="julianaamorin" />
+<img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=great-gatsby" alt="JulianaAmoriN" width="50" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=julianaamorin&theme=highcontrast" alt="julianaamorin" width="50"  />
 </p>
 ---
 
