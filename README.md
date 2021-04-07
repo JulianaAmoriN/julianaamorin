@@ -1,6 +1,6 @@
 <h1 align="center">< Hello Word /> </h1>
 
-<h3 align="center"> Soy Juliana!  🖖
+<h3 align="center"> Soy Juliana!  🖖 \n
   Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
 
 
