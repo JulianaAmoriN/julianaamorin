@@ -23,4 +23,4 @@
 
 ---
 
-![](https://github.com/JulianaAmoriN/JulianaAmoriN/blob/main/gifAngelaDavis.gif)
+![](https://github.com/JulianaAmoriN/JulianaAmoriN/blob/main/AngelaDavis.gif)
