@@ -4,6 +4,7 @@
 <p align="center">
 <img  src="https://img.shields.io/static/v1?label=English&message=basic&color=C2331A&"/>
 <img  src="https://img.shields.io/static/v1?label=Spanish&message=interediary&color=C2331A&"/>
+<img  src="https://img.shields.io/github/watchers/JulianaAmoriN/JulianaAmoriN.svg"/>
 </p>
 
 - 📚 Estudo na  [Laboratoria](https://github.com/Laboratoria)
