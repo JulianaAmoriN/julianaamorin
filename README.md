@@ -22,4 +22,5 @@
 -  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliana-silveira-nascimento" height="20" width="20" /> Entre no meu LinkedIn [Juliana Silveira Nascimento](https://www.linkedin.com/in/juliana-silveira-nascimento/)
 
 ---
-<img scr="https://github.com/JulianaAmoriN/JulianaAmoriN/blob/main/gifAngelaDavis.gif?raw=true">
+
+![](https://media.giphy.com/media/AauJT0w8cJoSQ/giphy.gif)
