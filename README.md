@@ -15,7 +15,7 @@
 
 - 📚 Eu estudo na  [Laboratoria](https://github.com/Laboratoria)
 
-- 👨‍💻 Meus projetos estão em [juliana.amorim.net.br](https://github.com/JulianaAmoriN)
+- 👩🏽‍💻 Meus projetos estão em [juliana.amorim.net.br](https://github.com/JulianaAmoriN)
 
 - 💬 Vamos conversar sobre **JavaScript, HTML, CSS**
 
