@@ -1,4 +1,4 @@
-<h1 align="center"><Hello Word/>🏽</h1>
+<h1 align="center">< Hello Word />🏽</h1>
 <h2 align="center"> Soy Juliana!  🖖🏽</h2>
 <h3 align="center">Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
 
