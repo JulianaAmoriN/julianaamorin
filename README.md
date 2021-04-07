@@ -2,7 +2,7 @@
 <h3 align="center"> Soy Juliana! 🖖🏽 <br> Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
 
 <p align="center">
-<img  src="https://img.shields.io/static/v1?label=Inglês&message=🟧🟧⬛⬛⬛&color=C2331A&"/>
+<img  src="https://img.shields.io/static/v1?label=Ingles&message=🟧🟧⬛⬛⬛&color=C2331A&"/>
 <img  src="https://img.shields.io/static/v1?label=Espanhol&message=🟧🟧🟧⬛⬛&color=C2331A&"/>
 </p>
 
