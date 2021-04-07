@@ -1,7 +1,10 @@
 <h1 align="center">< Hello Word /> </h1>
-
 <h3 align="center"> Soy Juliana! 🖖🏽 <br> Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
 
+<p align="center">
+<img  src="https://img.shields.io/static/v1?label=Inglês&message=🟧🟧⬛⬛⬛&color=C2331A&"/>
+<img  src="https://img.shields.io/static/v1?label=Espanhol&message=🟧🟧🟧⬛⬛&color=C2331A&"/>
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
