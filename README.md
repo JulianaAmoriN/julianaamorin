@@ -1,7 +1,8 @@
 <h1 align="center">< Hello Word /> </h1>
 
-<h3 align="center">Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
-<p align="center"> Soy Juliana!  🖖🏽</p>
+<h3 align="center"> Soy Juliana!  🖖
+  Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
