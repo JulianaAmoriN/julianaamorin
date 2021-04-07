@@ -23,4 +23,4 @@
 
 ---
 
-![](https://media.giphy.com/media/AauJT0w8cJoSQ/giphy.gif)
+![](https://github.com/JulianaAmoriN/JulianaAmoriN/blob/main/gifAngelaDavis.gif)
