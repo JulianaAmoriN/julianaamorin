@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Juliana!  🖖🏽</h1>
+<h1 align="center">Hi, soy Juliana!  🖖🏽</h1>
 <h3 align="center">Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
 
 <p align="center">
