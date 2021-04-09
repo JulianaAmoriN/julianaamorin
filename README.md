@@ -1,8 +1,8 @@
 <h1 align="center">< Hello Word /> </h1>
 <h3 align="center"> Soy Juliana! 🖖🏽 <br> Desenvolvedora Fron-End Junior 👩🏽‍💻💻 </h3>
-<h4 aling="center"><a target="blank" href="https://juliana-silveira.vercel.app/" >Portifólio</a></h4>
 
 <p align="center">
+<h4><ahref="https://juliana-silveira.vercel.app/" >Portifólio</a></h4>
 <img  src="https://img.shields.io/static/v1?label=English&message=basic&color=C2331A&"/>
 <img  src="https://img.shields.io/static/v1?label=Spanish&message=interediary&color=C2331A&"/>
 <img  src="https://img.shields.io/github/watchers/JulianaAmoriN/JulianaAmoriN.svg"/>
