@@ -9,7 +9,7 @@
 <img  src="https://img.shields.io/github/watchers/JulianaAmoriN/JulianaAmoriN.svg"/>
 </p>
 
-- 📚 Estudo na  [Laboratoria](https://github.com/Laboratoria)
+- 📚 Ex -Aluna da [Laboratoria](https://github.com/Laboratoria)
 
 - 👩🏽‍💻 Meus projetos estão em [juliana.amorim.net.br](https://github.com/JulianaAmoriN)
 
@@ -33,6 +33,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=great-gatsby" alt="JulianaAmoriN" width="45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianaamorin&theme=highcontrast" alt="julianaamorin" width="45%"/>
 </p>
+
 ---
 
 ![](https://github.com/JulianaAmoriN/JulianaAmoriN/blob/main/AngelaDavis.gif)
