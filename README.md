@@ -9,9 +9,9 @@
 <img  src="https://img.shields.io/github/watchers/JulianaAmoriN/JulianaAmoriN.svg"/>
 </p>
 
-- 📚 Ex -Aluna da [Laboratoria](https://github.com/Laboratoria)
+- 📚 Ex -Aluna da [Laboratoria](https://github.com/Laboratoria) & estudande de ADS na [FATEC-ZS](http://fateczonasul.edu.br/)
 
-- 👩🏽‍💻 Meus projetos estão em [juliana.amorim.net.br](https://github.com/JulianaAmoriN)
+- 👩🏽‍💻 Meus projetos estão em [juliananascimento.com.br](https://github.com/JulianaAmoriN)
 
 - 📫 Como me encontrar **juamorim.sn@gmail.com**
 
