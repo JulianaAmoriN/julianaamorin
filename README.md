@@ -32,6 +32,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JulianaAmoriN&show_icons=true&theme=great-gatsby" alt="JulianaAmoriN" width="45%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=julianaamorin&theme=highcontrast" alt="julianaamorin" width="45%"/>
+  
 <img awidth="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaamorin&layout=compact&theme=great-gatsby">
 </p>
 
