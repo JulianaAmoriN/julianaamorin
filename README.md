@@ -17,7 +17,7 @@
 
 -  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliana-silveira-nascimento" height="20" width="20" /> Entre no meu LinkedIn [Juliana Silveira Nascimento](https://www.linkedin.com/in/juliana-silveira-nascimento/)
 
-- 💬 Vamos conversar sobre **JavaScript, Banco de dados e Arquteturas**
+- 💬 Vamos conversar sobre **javaScript, banco de dados e arquiteturas**
 
 
 ---
