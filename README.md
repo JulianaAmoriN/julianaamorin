@@ -1,5 +1,5 @@
 <h1 align="center">< Hello Word /> </h1>
-<h3 align="center"> Soy Juliana! 🖖🏽 <br> Desenvolvedora Junior 👩🏽‍💻💻 </h3>
+<h3 align="center"> Soy Juliana! 🖖🏽 <br> Software Enginneering 👩🏽‍💻💻 </h3>
 <h4 align="center"><a href="https://juliana-silveira.vercel.app/" >Portifólio</a></h4>
 
 
