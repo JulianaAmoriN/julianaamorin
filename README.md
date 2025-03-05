@@ -9,7 +9,7 @@
 <img  src="https://img.shields.io/github/watchers/JulianaAmoriN/JulianaAmoriN.svg"/>
 </p>
 
-- 📚 Ex -Aluna da [Laboratoria](https://github.com/Laboratoria) & estudande de ADS na [FATEC-ZS](http://fateczonasul.edu.br/)
+- 📚 Ex -Aluna da [Laboratoria](https://github.com/Laboratoria) & ADS na [FATEC-ZS](http://fateczonasul.edu.br/)
 
 - 👩🏽‍💻 Meus projetos estão em [juliananascimento.com.br](https://github.com/JulianaAmoriN)
 
